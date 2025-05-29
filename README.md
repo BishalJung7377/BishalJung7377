@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLM, GenAI**
 
-- 💬 Ask me about **Angular, Python, Java Scritp**
+- 💬 Ask me about **Angular, Python, Java Scritpt**
 
 - 📫 How to reach me **bishaljung63@gmail.com**
 
