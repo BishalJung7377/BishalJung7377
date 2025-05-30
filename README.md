@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bishal Jung Thapa Chhetri
 
-🎯 **Data Scientist | Full-Stack Developer | Insight Seeker | Problem Solver | Researcher **  
+🎯 **Data Scientist | Full-Stack Developer | Insight Seeker | Problem Solver | Researcher**  
 🔍 **Transforming raw data into meaningful insights.**  
 💻 **Building innovative solutions through software development.**  
 ---
