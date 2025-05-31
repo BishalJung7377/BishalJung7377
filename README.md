@@ -7,10 +7,10 @@
 
 ## 🧠 Data Science | Machine Learning | Front-end Developer
 
-- **Data Analysis**: Exploratory Data Analysis (EDA), statistical testing, feature engineering
-- **Machine Learning**: Supervised & Unsupervised Learning (Regression, Classification, Clustering)
-- **Deep Learning**: Basics of Neural Networks, TensorFlow/Keras
-- **Model Evaluation**: Cross-validation, ROC AUC, Precision-Recall, F1 Score
+- **Data Analysis**: Data Munging, Exploratory Data Analysis (EDA), statistical testing, feature engineering, Principle Component Analysis, 
+- **Machine Learning**: Supervised & Unsupervised Learning (Regression, Classification, Clustering, Decision Trees, Random Forest, Gradient Boosting, KNN)
+- **Deep Learning**: Basics of Neural Networks, TensorFlow/Keras, Recurrent Neural Networks (RNNs), 
+- **Model Evaluation**: Cross-validation, ROC AUC, Precision-Recall, F1 Score, Confusion Matrix 
 - **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `keras`, `NLTK`, `Streamlit`
 
 ---
@@ -88,6 +88,13 @@
 
 ---
 
+## 📚 Research Paper  
+**Ethical Implication of Artificial Intelligence (AI) Adoption in Financial Decision Making**  
+
+You can read the full paper here:  
+[ResearchGate Link](https://www.researchgate.net/publication/380186375_Ethical_Implication_of_Artificial_Intelligence_AI_Adoption_in_Financial_Decision_Making)
+
+---
 ## 📫 Let’s Connect
 - 📧 Email: [bishaljung63@gmail.com]  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/bsalt7377596/]
@@ -95,4 +102,3 @@
 
 ---
 
-> “Data is the new oil, but insight is the spark.”
