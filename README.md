@@ -28,6 +28,9 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![ggplot2](https://img.shields.io/badge/-ggplot2-2E9FDF?style=for-the-badge&logo=r&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/-Tidyverse-4C72B0?style=for-the-badge&logo=r&logoColor=white)
 
 <!-- 🗃️ Databases -->
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,7 +78,7 @@
 - **Jupyter Notebooks**
 - **Tableau / Power BI** (Basic visual dashboards)
 - **GitHub** for version control
-- **VS Code / PyCharm**
+- **VS Code / PyCharm/ RStudio**
 - **Postman** for API testing
 
 ---
