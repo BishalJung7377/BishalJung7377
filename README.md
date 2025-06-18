@@ -101,7 +101,7 @@ You can read the full paper here:
 ## 📫 Let’s Connect
 - 📧 Email: [bishaljung63@gmail.com]  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/bsalt7377596/]
-- 🌐 Portfolio: [https://bishaljungthapachhetri.com.np/]
+- 🌐 Portfolio: [https://www.bishaljungthapachhetri.com.np/]
 
 ---
 
