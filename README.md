@@ -1,40 +1,29 @@
-# 👋 Hi there, I'm Bishal Jung Thapa Chhetri
+## 🧠 Data Analytics | Business Intelligence | Reporting  
 
-🎯 **Data Scientist | Full-Stack Developer | Insight Seeker | Problem Solver | Researcher**  
-🔍 **Transforming raw data into meaningful insights.**  
-💻 **Building innovative solutions through software development.**  
----
-
-## 🧠 Data Science | Machine Learning | Front-end Developer
-
-- **Data Analysis**: Data Munging, Exploratory Data Analysis (EDA), statistical testing, feature engineering, Principle Component Analysis, 
-- **Machine Learning**: Supervised & Unsupervised Learning (Regression, Classification, Clustering, Decision Trees, Random Forest, Gradient Boosting, KNN)
-- **Deep Learning**: Basics of Neural Networks, TensorFlow/Keras, Recurrent Neural Networks (RNNs), 
-- **Model Evaluation**: Cross-validation, ROC AUC, Precision-Recall, F1 Score, Confusion Matrix 
-- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `keras`, `NLTK`, `Streamlit`
+- **Data Analysis**: Data cleaning, wrangling, exploratory analysis, hypothesis testing  
+- **Statistical Techniques**: Regression, time-series, clustering, forecasting, A/B testing  
+- **Business Intelligence**: KPI dashboards, variance/trend analysis, financial reconciliation, reporting automation  
+- **Data Visualization**: Interactive dashboards (Power BI, Tableau), storytelling with data  
+- **Data Engineering (Basic)**: SQL ETL pipelines, data modeling, API/ERP integrations  
+- **Tools & Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `Power Query`  
 
 ---
 
-## 🛠️ Programming & Tools
-<!-- 🧠 Data Science & Machine Learning -->
+## 🛠️ Programming & Tools  
+
+<!-- 💡 Core Analytics Tools -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![ggplot2](https://img.shields.io/badge/-ggplot2-2E9FDF?style=for-the-badge&logo=r&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/-Tidyverse-4C72B0?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-<!-- 🗃️ Databases -->
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- 📊 Visualization & Reporting -->
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+
 
 <!-- 🌐 Full Stack Web Development -->
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -59,49 +48,49 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+---
 
-### 💻 Programming
-- **Python**: Data analysis, machine learning, automation  
-- **JavaScript**: Backend and frontend logic with Node.js and React  
-- **Java**: Object-oriented programming, backend development, data structures  
-- **R**: Statistical analysis, data visualization, machine learning  
-- **Kotlin**: Android app development  
-
-
-### 🗃️ Databases
-- **MySQL**: Structured data, relational modeling
-- **MongoDB**: Schema-less document storage, aggregation framework
+### 💻 Programming  
+- **Python**: Data analysis, reporting automation, ETL scripts  
+- **SQL (MySQL / PostgreSQL / Snowflake)**: Data modeling, joins, aggregations, stored procedures  
+- **R**: Statistical analysis, advanced visualization  
+- **Excel (Power Query, Pivot Tables, Macros)**: Business and financial reporting  
 
 ---
 
-## 📊 Data Tools & Platforms
-- **Jupyter Notebooks**
-- **Tableau / Power BI** (Basic visual dashboards)
-- **GitHub** for version control
-- **VS Code / PyCharm/ RStudio**
-- **Postman** for API testing
+### 🗃️ Databases  
+- **MySQL / PostgreSQL**: Structured queries, schema design, optimization  
+- **MongoDB**: Document-based analytics use cases  
+- **Snowflake / Redshift**: Cloud data warehousing  
 
 ---
 
-## 📈 Projects & Interests
-- Predictive Modeling | Classification & Regression
-- Big Data Visualization
-- Real-time Dashboards & Reporting
-- NLP and Text Analytics (beginner level)
+## 📊 Data Tools & Platforms  
+- **Power BI / Tableau** for dashboards and reporting  
+- **Jupyter / RStudio / VS Code** for analytics workflows  
+- **GitHub** for version control  
+- **Excel / Power Query** for ad-hoc business analysis  
+
+---
+
+## 📈 Projects & Interests  
+- Financial Data Analytics (KPI tracking, reconciliation automation)  
+- Credit Card Transactions Dashboard (SQL + Power BI)  
+- House Price Prediction (EDA + ML)  
+- Customer Churn Analysis (SQL + Python)  
+- Big Data (NYC Yellow Taxi ETL with PySpark)  
+- Real-time Reporting & Automation  
 
 ---
 
 ## 📚 Research Paper  
 **Ethical Implication of Artificial Intelligence (AI) Adoption in Financial Decision Making**  
 
-You can read the full paper here:  
-[ResearchGate Link](https://www.researchgate.net/publication/380186375_Ethical_Implication_of_Artificial_Intelligence_AI_Adoption_in_Financial_Decision_Making)
-
----
-## 📫 Let’s Connect
-- 📧 Email: [bishaljung63@gmail.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/bsalt7377596/]
-- 🌐 Portfolio: [https://www.bishaljungthapachhetri.com.np/]
+📖 [Read the full paper here](https://www.researchgate.net/publication/380186375_Ethical_Implication_of_Artificial_Intelligence_AI_Adoption_in_Financial_Decision_Making)  
 
 ---
 
+## 📫 Let’s Connect  
+- 📧 Email: [bjtc23@gmail.com]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/bishal-jung23/](https://www.linkedin.com/in/bishal-jung23/)  
+- 🌐 Portfolio: [https://www.bishaljungthapachhetri.com.np/](https://www.bishaljungthapachhetri.com.np/)  
