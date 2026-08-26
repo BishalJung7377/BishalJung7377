@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Bishal Jung Thapa Chhetri  
-**Senior Data Engineer | Multi-Cloud | FinTech • Healthcare • Telecom**  
+# 👋 Hi, I'm Bishal Thapa Chhetri  
+**Senior Data Engineer | Multi-Cloud | Retail • Finance • Healthcare**  
 📍 Grand Prairie, TX  
 📧 bishaljungthapa26@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bishaljung26/) | [GitHub](https://github.com/BishalJung7377)
+🔗 [LinkedIn](https://www.linkedin.com/in/bishal-chhetri-17b4b342b/) | [GitHub](https://github.com/BishalJung7377)
 
 ---
 
 ## 🚀 About Me  
 
-Results-driven **Senior Data Engineer** with 7+ years of experience designing and operating secure, scalable, and high-performance data platforms across **finance, healthcare, and telecommunications**.
+Results-driven **Senior Data Engineer** with 7+ years of experience designing and operating secure, scalable, and high-performance data platforms across **finance, healthcare, and Retail**.
 
 I specialize in **cloud-native data engineering** on **AWS, Azure, and GCP**, building modern ETL/ELT pipelines, streaming systems, and analytical data platforms using **Spark, Snowflake, Databricks, Python, and SQL**.
 
@@ -121,37 +121,49 @@ I’m passionate about:
 
 ## 📊 Selected Experience Highlights  
 
-### 🏦 Chase Bank — Senior Data Engineer (2023–Present)  
-- Built AWS Glue + S3 pipelines for multi-source financial ingestion  
-- Implemented **near real-time fraud detection** using Kinesis + Lambda  
-- Orchestrated workflows using **Airflow on MWAA**  
-- Reduced reporting refresh times by **80%** using Redshift materialized views  
-- Tuned Spark workloads on EMR (60% performance gain)  
-- Enforced SOX compliance using IAM, KMS, and Lake Formation  
-- Migrated SSIS pipelines to AWS-native architecture  
-- Built Snowflake marts for financial reconciliation  
-- Supported ML feature pipelines for SageMaker  
+### 🏪 7-Eleven — Senior Data Engineer (2023–Present)
 
-### 🏥 Greenway Health — Data Engineer (2020–2023)  
-- Built healthcare ETL pipelines using **ADF + Databricks (PySpark)**  
-- Implemented **Delta Lake** for schema enforcement and time travel  
-- Built Snowflake marts for HIPAA-compliant analytics  
-- Integrated FHIR/HL7 APIs into Azure Data Lake  
-- Automated data quality checks using **Great Expectations**  
-- Built CI/CD pipelines with Azure DevOps  
-- Optimized Synapse Serverless Pools  
-- Implemented RBAC and Key Vault security  
+- Architected **AWS, S3, Python, PySpark, Spark, and SQL** pipelines processing over **2.6 TB daily**
+- Owned more than **170 Airflow workflows**, sustaining **99.7% scheduled completion**
+- Built reusable ETL/ELT components for extraction, enrichment, normalization, and schema handling
+- Engineered **Kafka and Spark** pipelines processing over **95 million events daily**
+- Designed dimensional and relational models using **Spark SQL, Iceberg, and Trino**
+- Integrated internal and third-party systems through **Python REST APIs and JSON**
+- Reduced selected processing runtimes by **38%** through Spark and SQL optimization
+- Implemented automated data-quality controls that reduced recurring incidents by **29%**
+- Established observability using structured logging, Airflow monitoring, and **Spark UI**
+- Strengthened governance through **Apache Ranger, RBAC, lineage, and data contracts**
+- Built automated delivery workflows with **GitLab CI/CD and production testing**
+- Mentored engineers in Python, Spark, SQL, Airflow, testing, and production support
 
-### 📡 Verizon — Data Engineer (2017–2020)  
-- Built telecom ETL pipelines using **GCP Dataflow (Apache Beam)**  
-- Modeled petabyte-scale datasets in BigQuery  
-- Orchestrated pipelines with Airflow  
-- Integrated Pub/Sub streaming ingestion  
-- Built anomaly detection workflows with Vertex AI  
-- Managed infra using Terraform  
-- Built Looker dashboards for real-time analytics  
+### 🏦 JPMorgan Chase & Co. — Data Engineer (2021–2023)
 
----
+- Built **AWS, S3, Python, PySpark, Spark, and SQL** pipelines processing approximately **1.4 TB daily**
+- Developed more than **110 Airflow workflows** for extraction, transformation, validation, and publishing
+- Created reusable transformation frameworks for enrichment, reconciliation, and incremental processing
+- Built **Kafka and Spark** pipelines processing over **70 million financial events daily**
+- Designed regulated financial-data models using **Spark SQL, Iceberg, Trino, and dimensional modeling**
+- Modernized legacy **Hadoop and Hive** workloads using Spark and S3
+- Reduced selected workload execution times by **34%**
+- Developed system integrations using **Python REST APIs, JSON, Airflow, and SQL**
+- Implemented data-quality frameworks that reduced quality escalations by **24%**
+- Optimized large-scale **Trino SQL, Spark SQL, PySpark, and Spark** workloads
+- Enforced regulated-data governance using **Apache Ranger, RBAC, lineage, and data contracts**
+- Automated testing and deployment with **GitLab CI/CD**, reducing manual validation by **30%**
+
+### 🏥 Novant Health — Data Engineer (2019–2021)
+
+- Built healthcare pipelines processing over **650 GB of patient and operational data daily**
+- Developed approximately **75 Airflow workflows**, achieving **98.9% scheduled completion**
+- Designed patient, provider, encounter, claims, billing, and facility data models
+- Created reusable ETL components using **Python, PySpark, Spark, and SQL**
+- Implemented **Kafka and Spark** processing for selected near-real-time healthcare feeds
+- Built healthcare integrations using **Python REST APIs, JSON, Airflow, and SQL**
+- Introduced automated data-quality controls that reduced correction activity by **23%**
+- Optimized **Spark, Hadoop, Hive, and Spark SQL** workloads, reducing selected runtimes by **27%**
+- Secured sensitive healthcare data using **Apache Ranger, RBAC, and S3 access controls**
+- Improved traceability through data lineage, schema documentation, and source-to-target mappings
+- Automated testing and deployment with **GitLab CI/CD**, reducing manual deployment effort by **30%**
 
 ## 📈 Projects & Interests  
 
@@ -163,13 +175,6 @@ I’m passionate about:
 - NYC Taxi Big Data ETL (PySpark)  
 - Feature Engineering Pipelines for ML  
 - Data Quality Automation Framework  
-
----
-
-## 📚 Research  
-
-**Ethical Implication of Artificial Intelligence (AI) Adoption in Financial Decision Making**  
-📖 [Read on ResearchGate](https://www.researchgate.net/publication/380186375_Ethical_Implication_of_Artificial_Intelligence_AI_Adoption_in_Financial_Decision_Making)
 
 ---
 
